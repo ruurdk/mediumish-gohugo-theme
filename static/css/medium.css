@@ -846,3 +846,6 @@ iframe {
 .sticky-top-80 {
     top: 80px;
 }
+.card .img-fixed {
+    max-width:100%;
+}
